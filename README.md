@@ -8,7 +8,11 @@
 
 ## 解压密码
 
-私信发送`Net_AISec_hunter`获取解压密码
+私信后台发送 `Net_AISec_hunter` 获取解压密码
+
+[【Net_AISec_hunter】基于 Wails + cursor 红队自动化 .NET 白盒漏洞挖掘工具](https://mp.weixin.qq.com/s/RcAaRQND2ixd6CtQl27g4A)
+
+试用版程序运行到期时间2026/04/10，没有后门，若不放心可放虚拟机使用，获取正式版可联系作者～
 
 ## 快速开始
 
