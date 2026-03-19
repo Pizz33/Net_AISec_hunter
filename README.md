@@ -1,3 +1,7 @@
+
+
+<img width="1280" height="640" alt="Net_AISec_hunter" src="https://github.com/user-attachments/assets/939be257-0a7e-41c3-8a2b-284f81383888" />
+
 # Net_AISec_hunter
 
 基于 Wails + cursor-cli 的红队自动化 .NET 白盒漏洞挖掘工具
