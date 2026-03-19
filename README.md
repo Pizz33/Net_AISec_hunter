@@ -1,10 +1,14 @@
 # Net_AISec_hunter
 
-基于 Wails + cursor-cli 的红队自动化 .NET 白盒漏洞挖掘工具。
+基于 Wails + cursor-cli 的红队自动化 .NET 白盒漏洞挖掘工具
 
 > 面向授权测试场景，“白盒漏洞挖掘 + 红队打点 + 审计结果验证”
 
 ![image-20260319173534814](https://photoscloud.oss-cn-shanghai.aliyuncs.com/image-20260319173534814.png)
+
+## 解压密码
+
+私信发送`Net_AISec_hunter`获取解压密码
 
 ## 快速开始
 
