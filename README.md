@@ -16,7 +16,7 @@
 
 [【Net_AISec_hunter】基于 Wails + cursor 红队自动化 .NET 白盒漏洞挖掘工具](https://mp.weixin.qq.com/s/RcAaRQND2ixd6CtQl27g4A)
 
-试用版程序运行到期时间2026/04/10，没有后门，若不放心可放虚拟机使用，获取正式版可联系作者～
+试用版程序运行到期时间2026/04/10，程序自身不带后门，`de4dot.exe`和`ilspycmd`为网上下载程序，若不放心可放虚拟机使用，获取正式版可联系作者～
 
 ## 快速开始
 
